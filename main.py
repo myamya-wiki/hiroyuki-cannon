@@ -1,11 +1,3 @@
-#このツールはあくまでも、あくまでもウェブサイトのテストを行うツールであります。
-#イラついたからとか言って撃ったらあかんて
-
-#作成元: Myamya-wiki
-#Twitter名: myamya_wiki
-#github: https://github.com/myamya-wiki
-
-
 import threading
 import requests
 import logging
